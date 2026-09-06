@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">点线面 · 从一个点子到产品正式上线</title>
+  <desc id="desc">大禹的 AI 产品项目：提出点子、确认方案、生成预览、部署上线。点击卡片查看项目与体验 Demo。</desc>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "PingFang SC", monospace; }
+    .step { animation: appear .7s ease both; }
+    .two { animation-delay: .2s; } .three { animation-delay: .4s; } .four { animation-delay: .6s; }
+    .cursor { animation: blink 1.2s steps(1) infinite; }
+    @keyframes appear { from { opacity: .25; } to { opacity: 1; } }
+    @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .step, .cursor { animation: none; } }
+  </style>
+  <rect x="1" y="1" width="1198" height="558" rx="24" fill="#f8fafc" stroke="#d8e2ed" stroke-width="2"/>
+  <path d="M25 2H1175Q1198 2 1198 25V62H2V25Q2 2 25 2" fill="#eef2f6"/>
+  <path d="M2 62H1198" stroke="#d8e2ed"/>
+  <circle cx="30" cy="32" r="8" fill="#ff6059"/><circle cx="57" cy="32" r="8" fill="#ffbd2e"/><circle cx="84" cy="32" r="8" fill="#28c840"/>
+  <text x="600" y="38" text-anchor="middle" class="mono" font-size="16" fill="#8190a3">dayu@studio ~ point-line-plane</text>
+  <text x="52" y="118" class="mono" font-size="19" font-weight="600" fill="#3478c9">dayu ~ % open point-line-plane</text>
+  <rect class="cursor" x="440" y="101" width="10" height="21" rx="1" fill="#3478c9"/>
+  <g transform="translate(52 155)" fill="#3985e8">
+    <rect width="18" height="18" rx="5"/><rect x="24" width="18" height="18" rx="5" opacity=".48"/>
+    <rect y="24" width="18" height="18" rx="5" opacity=".48"/><rect x="24" y="24" width="18" height="18" rx="5"/>
+  </g>
+  <text x="110" y="192" font-size="44" font-weight="700" fill="#26374b">点线面</text>
+  <text x="52" y="250" font-size="34" font-weight="650" fill="#26374b">从一个点子到产品正式上线</text>
+  <text x="52" y="288" font-size="20" fill="#738297">把想法说清楚，让方案、预览与交付一步步发生。</text>
+  <g transform="translate(52 326)">
+    <g class="step">
+      <rect width="242" height="64" rx="14" fill="#edf4ff" stroke="#dce8f7"/>
+      <text x="20" y="40" class="mono" font-size="19" fill="#3985e8">01</text>
+      <text x="65" y="40" font-size="21" font-weight="600" fill="#465a73">提出点子</text>
+    </g>
+    <path d="M252 32H272M266 26L272 32L266 38" fill="none" stroke="#9bb2ce" stroke-width="2"/>
+    <g class="step two" transform="translate(284)">
+      <rect width="242" height="64" rx="14" fill="#edf4ff" stroke="#dce8f7"/>
+      <text x="20" y="40" class="mono" font-size="19" fill="#3985e8">02</text>
+      <text x="65" y="40" font-size="21" font-weight="600" fill="#465a73">确认方案</text>
+    </g>
+    <path d="M536 32H556M550 26L556 32L550 38" fill="none" stroke="#9bb2ce" stroke-width="2"/>
+    <g class="step three" transform="translate(568)">
+      <rect width="242" height="64" rx="14" fill="#edf4ff" stroke="#dce8f7"/>
+      <text x="20" y="40" class="mono" font-size="19" fill="#3985e8">03</text>
+      <text x="65" y="40" font-size="21" font-weight="600" fill="#465a73">生成预览</text>
+    </g>
+    <path d="M820 32H840M834 26L840 32L834 38" fill="none" stroke="#9bb2ce" stroke-width="2"/>
+    <g class="step four" transform="translate(852)">
+      <rect width="242" height="64" rx="14" fill="#edf4ff" stroke="#dce8f7"/>
+      <text x="20" y="40" class="mono" font-size="19" fill="#3985e8">04</text>
+      <text x="65" y="40" font-size="21" font-weight="600" fill="#465a73">部署上线</text>
+    </g>
+  </g>
+  <path d="M52 424H1148" stroke="#e0e7ef"/>
+  <circle cx="60" cy="479" r="5" fill="#49a77b"/>
+  <text x="76" y="486" class="mono" font-size="17" fill="#738297">AI PRODUCT WORKFLOW · BY DAYU</text>
+  <rect x="856" y="449" width="292" height="61" rx="14" fill="#3478c9"/>
+  <text x="880" y="487" font-size="21" font-weight="600" fill="#fff">查看项目 · 体验 Demo</text>
+  <path d="M1100 480H1121M1114 473L1121 480L1114 487" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
