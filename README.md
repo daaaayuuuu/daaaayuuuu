@@ -13,10 +13,14 @@
 
 ## ⭐ 精选项目
 
-**[映证 Verlay](https://github.com/daaaayuuuu/verlay)** — 面向本地前端项目的可视化 UI 编辑工具，在网页上选中元素、调整样式，通过 Codex 将修改写回真实源码并验证结果。
+**[映证 Verlay](https://github.com/daaaayuuuu/verlay)** 
+面向本地前端项目的可视化 UI 编辑工具，在网页上选中元素、调整样式，通过 Codex 将修改写回真实源码并验证结果
 
-**[点线面](https://github.com/daaaayuuuu/point-line-plane)** — 从产品想法到交付的 AI 产品工作流，通过柠檬番茄闹钟交互 Demo，体验提出点子、确认方案、生成预览与部署上线四个阶段。
+**[点线面](https://github.com/daaaayuuuu/point-line-plane)** 
+从产品想法到交付的 AI 产品工作流，通过柠檬番茄闹钟交互 Demo，体验提出点子、确认方案、生成预览与部署上线四个阶段
 
-**[ai-pm-writing-artical](https://github.com/daaaayuuuu/ai-pm-writing-artical)** — 面向 AI 产品经理的中文写作 Skill，将项目经历、产品体验与研究材料整理成专业文章，并生成统一风格的封面和正文配图。
+**[ai-pm-writing-artical](https://github.com/daaaayuuuu/ai-pm-writing-artical)** 
+面向 AI 产品经理的中文写作 Skill，将项目经历、产品体验与研究材料整理成专业文章，并生成统一风格的封面和正文配图
 
-**[xiaohongshu-ai-knowledge-note](https://github.com/daaaayuuuu/xiaohongshu-ai-knowledge-note)** — 将 AI 概念整理成五页小红书知识图解，统一蓝色视觉，支持资料核验、高清卡片与发布文案输出。
+**[xiaohongshu-ai-knowledge-note](https://github.com/daaaayuuuu/xiaohongshu-ai-knowledge-note)** 
+将 AI 概念整理成五页小红书知识图解，统一蓝色视觉，支持资料核验、高清卡片与发布文案输出。
